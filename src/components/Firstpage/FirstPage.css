@@ -1,0 +1,35 @@
+.front{
+    background-color: rgb(95, 172, 145);
+    text-align: center;
+}
+.contact{
+    align-items: left;
+    margin-left: 80px;
+    margin-top: 20px;
+    flex-direction: right;    
+}
+.alltext{
+    background-color: rgb(71, 143, 118);
+    height: 30px;
+}
+.object{
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+.object p{
+    text-decoration: none;
+    text-align: center;
+}
+.pic{
+    float: right;
+    margin-top: 0%;
+    margin: auto;
+    height: 20px;
+    margin-right: 100px;
+
+}
+.pic img{
+    width: 200px;height: 150px;
+}
